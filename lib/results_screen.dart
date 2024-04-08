@@ -63,7 +63,7 @@ class ResultsScreen extends StatelessWidget {
                 foregroundColor: Colors.white,
               ),
               label: const Text('Restart Quiz!'),
-              icon: const Icon(Icons.restart_alt_sharp),
+              icon: const Icon(Icons.refresh),
             ),
           ],
         ),
